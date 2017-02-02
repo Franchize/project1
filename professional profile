@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+		<meta charset="UTF-8">
+		<title>Tracy's 1st Web Page</title>
+</head>
+<body>
+		<header>
+				<h2><strong> Tracy Francis’s </strong> Professional Profile</h2>
+		</header>
+		
+		<section id="past work experience"> <!-- be sure to research sec id. -->
+				<h3> Recent work experience with the Northridge Group: </h3>
+				<ul>
+					<li>Develop IT Support organization</li>
+					<li>Evolved IT from a collection of PC’s and Laptops to a formal, centrally managed platform</li>
+					<li>Drove many of the technologies, including the full rollout of VDI and many of the underlying management tools that provide security and oversight</li>
+					<li>Took on the role of interfacing with a number of our IT vendors and helped negotiate optimal plans for services</li>
+					<li>Took the lead in documenting and providing self-help tools, and while technology is constantly changing, gave the firm a starting point that can continue to be refined</li>
+				</ul>
+		</section>
+		<section id="future work experience">
+				<h3> Future work experience: </h3>
+				<ul>
+					<li>Join a digital development firm as a web developer</li>
+					<li>Help develop and enhance user friendly websites for small to mid-size company’s</li>
+				</ul>
+		</section>
+</body>
+</html> 
+	
